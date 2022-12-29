@@ -1,2 +1,2 @@
 # Ad campaign performance
-The main objective of this project is to test if the ads that the advertising company runs resulted in a significant lift in brand awareness. 
+The major objective of this study is to determine whether the advertising firm's campaigns significantly increased brand awareness.
